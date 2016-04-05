@@ -41,7 +41,7 @@
 		</dependency>
 
 
-		<!-- Spring所需的jar包 -->
+		<!-- Spring2所需的jar包 -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
